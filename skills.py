@@ -1,0 +1,22 @@
+skills_db = [
+    "python",
+    "java",
+    "c",
+    "c++",
+    "sql",
+    "html",
+    "css",
+    "javascript",
+    "machine learning",
+    "deep learning",
+    "artificial intelligence",
+    "tensorflow",
+    "pandas",
+    "numpy",
+    "power bi",
+    "excel",
+    "data analysis",
+    "data science",
+    "git",
+    "github"
+]
